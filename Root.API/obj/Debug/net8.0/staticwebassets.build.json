@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Yumh5JTBYZAdErgYedrMVaNBhtjnHMONbQph2ZSnabo=",
+  "Source": "Root.API",
+  "BasePath": "_content/Root.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Root.API\\wwwroot",
+      "Source": "Root.API",
+      "ContentRoot": "F:\\Projects\\Root.API\\Root.API\\wwwroot\\",
+      "BasePath": "_content/Root.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

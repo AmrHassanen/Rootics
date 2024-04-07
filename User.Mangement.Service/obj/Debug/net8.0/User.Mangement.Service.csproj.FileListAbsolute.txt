@@ -1,0 +1,12 @@
+F:\Projects\Root.API\User.Mangement.Service\bin\Debug\net8.0\User.Mangement.Service.deps.json
+F:\Projects\Root.API\User.Mangement.Service\bin\Debug\net8.0\User.Mangement.Service.dll
+F:\Projects\Root.API\User.Mangement.Service\bin\Debug\net8.0\User.Mangement.Service.pdb
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.csproj.AssemblyReference.cache
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.AssemblyInfoInputs.cache
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.AssemblyInfo.cs
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.csproj.CoreCompileInputs.cache
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.dll
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\refint\User.Mangement.Service.dll
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\User.Mangement.Service.pdb
+F:\Projects\Root.API\User.Mangement.Service\obj\Debug\net8.0\ref\User.Mangement.Service.dll
